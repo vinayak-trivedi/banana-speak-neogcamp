@@ -1,0 +1,44 @@
+body{
+    background-color: yellow;;
+}
+h1{
+    text-align: center;
+}
+
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    background-color: white;
+    padding: 1rem;
+}
+
+.lower-section{
+    margin-top: 2rem;
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+#btn-translate{
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+}
+.container-center{
+    max-width: 300px;
+    margin: auto;
+}
+#output{
+    max-width: 300px;
+    margin: auto;
+}
