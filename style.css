@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shadows+Into+Light&display=swap');
+
 body{
     background-color: yellow;;
 }
 h1{
     text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Shadows Into Light', cursive;;
 }
 
 textarea {
@@ -15,7 +19,7 @@ textarea {
 
 #output {
     border: 1px solid black;
-    height: 10vh;
+    height: 15vh;
     width: 80%;
     margin: 1rem;
     background-color: white;
@@ -33,6 +37,7 @@ textarea {
     background-color: blue;
     color: white;
     font-size: 2rem;
+    margin-top: 2rem;
 }
 .container-center{
     max-width: 300px;
@@ -41,4 +46,10 @@ textarea {
 #output{
     max-width: 300px;
     margin: auto;
+}
+.facts{
+    max-width: 300px;
+    margin: auto;
+    position: absolute;
+    bottom: 0;
 }
