@@ -53,3 +53,8 @@ textarea {
     position: absolute;
     bottom: 0;
 }
+.creator{
+    text-align: center;
+    color: blue;
+    border: 2px solid white;
+}
